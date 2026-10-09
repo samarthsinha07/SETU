@@ -1,6 +1,6 @@
 # 🎓 SETU - Campus Opportunity & Referral Hub
 
-> **Enterprise-Ready Java Full Stack Platform (Target: EY GDS / Senior SDE Level)**  
+> **Enterprise-Ready Java Full Stack Platform **  
 > A high-performance, portfolio-grade system bridging Students, Alumni Referrers, Corporate Recruiters, and Administrators for campus placements, referral marketplaces, and recruitment analytics.
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
