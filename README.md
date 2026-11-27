@@ -1,8 +1,6 @@
 # 🎓 SETU - Campus Opportunity & Referral Hub
 
 
-> A high-performance, portfolio-grade system bridging Students, Alumni Referrers, Corporate Recruiters, and Administrators for campus placements, referral marketplaces, and recruitment analytics.
-
 [![Java](https://img.shields.io/badge/Java-17%2B-orange.svg?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-green.svg?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-blue.svg?style=for-the-badge&logo=springsecurity)](https://spring.io/projects/spring-security)
