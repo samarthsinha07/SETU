@@ -1,13 +1,10 @@
 # 🎓 SETU - Campus Opportunity & Referral Hub
 
+> A high-performance, portfolio-grade system bridging Students, Alumni Referrers, Corporate Recruiters, and Administrators for campus placements, referral marketplaces, and recruitment analytics.
 
-[![Java](https://img.shields.io/badge/Java-17%2B-orange.svg?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-green.svg?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
-[![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-blue.svg?style=for-the-badge&logo=springsecurity)](https://spring.io/projects/spring-security)
-[![React](https://img.shields.io/badge/React-18.2-61dafb.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.1-646cff.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-green?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-blue?style=for-the-badge&logo=springsecurity)](https://spring.io/projects/spring-security)
 
 ---
 
